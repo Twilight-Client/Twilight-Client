@@ -1,4 +1,6 @@
-Twilight-Client
+Twilight Client
 ===============
 
-Twilight Client current versions.
+*Current Version*: **(Non-Release) 0.1.0**
+
+===============
